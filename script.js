@@ -58,11 +58,11 @@ function smoothScroll(e) {
 const projects = [
     {
         id: 1,
-        title: 'E-commerce Product Strategy',
-        description: 'Led product strategy for a B2B e-commerce platform, resulting in 40% increase in user engagement and 25% revenue growth through data-driven feature prioritization.',
-        image: '📈',
-        technologies: ['Product Strategy', 'User Research', 'A/B Testing', 'Analytics'],
-        liveUrl: '#',
+        title: 'Pomodoro Timer',
+        description: 'A gamified Pomodoro timer with session history, streaks, and a built-in to-do list. Stay focused and track your productivity!',
+        image: '⏰',
+        technologies: ['React', 'JavaScript', 'CSS3', 'Productivity'],
+        liveUrl: 'pomodoro-timer/',
         githubUrl: '#',
         featured: true
     },
